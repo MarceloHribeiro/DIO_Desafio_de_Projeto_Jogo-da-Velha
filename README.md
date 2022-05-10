@@ -1,2 +1,2 @@
-# DIO_Desafio_de_Projeto_Jogo-da-Velha
-Desafio de Projeto DIO - Jogo da Velha
+# Desafio de Projeto Jogo-da-Velha
+Repositorio criado para o desafio de projeto DIO.
